@@ -58,7 +58,7 @@ Just clean, reliable scripts built with purpose.
 
 If you like the scripts, consider leaving a star or you can buy me a coffee — it helps a lot and keeps me motivated. 😊
 
-buymeacoffee.com/ghostcorescripts
+link: buymeacoffee.com/ghostcorescripts
 
 ---
 
