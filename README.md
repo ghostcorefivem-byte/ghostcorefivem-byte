@@ -28,6 +28,7 @@ Every script is built with performance and reliability in mind — no unnecessar
 * **gc-serverinfo** — clean UI with player data
 * **gc-jewelry** — wearable synced jewelry system
 * **gc-propplacer** — lightweight prop placement system
+* **gc-section8** - mini housing script only using ox_doorlock
 
 ---
 
