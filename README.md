@@ -8,6 +8,8 @@ Clean, optimized, and beginner-friendly FiveM scripts built for real servers.
 
 I’m a developer focused on creating **lightweight, server-validated, and fully synced scripts** that actually work in real RP environments.
 
+Owner and developer of **NOBODY SAFE IN CHICAGO RP**
+
 Every script is built with performance and reliability in mind — no unnecessary bloat, no messy logic, just clean systems you can trust.
 
 ---
